@@ -77,7 +77,7 @@
 
 **[R18]** Haines S, et al. The role of cocoa flavanols in modulating peripheral and cerebral microvascular function in healthy individuals and populations at-risk of cardiovascular disease: a systematic review. *Journal of Human Nutrition and Dietetics*. 2025. PMID: 40217225. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40217225/)
 
-**[R19]** Fisher ND, Hughes M, Gerhard-Herman M, Hollenberg NK. Flavanol-rich cocoa induces nitric-oxide-dependent vasodilation in healthy humans. *Journal of Hypertension*. 2003;21(12):2281–2286. DOI: 10.1097/00004872-200312000-00016; PMID: 14654748. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14654748())
+**[R19]** Fisher ND, Hughes M, Gerhard-Herman M, Hollenberg NK. Flavanol-rich cocoa induces nitric-oxide-dependent vasodilation in healthy humans. *Journal of Hypertension*. 2003;21(12):2281–2286. DOI: 10.1097/00004872-200312000-00016; PMID: 14654748. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14654748/)
 
 ## کنترل منابع پیش از ساخت پاورپوینت
 
