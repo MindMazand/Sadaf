@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">مسیر زیستی کولین تا استیل‌کولین</title>
+<desc id="desc">شماتیک آموزشی راست‌به‌چپ از کولین و استیل‌کوآنزیم A، واکنش با آنزیم کولین‌استیل‌ترانسفراز، تولید استیل‌کولین و اتصال به گیرنده؛ مسیر زیستی به معنای اثربخشی مکمل نیست.</desc>
+<defs>
+  <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto"><path d="M0 0L14 7L0 14Z" fill="#20B8B0"/></marker>
+  <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#10243A" flood-opacity=".08"/></filter>
+</defs>
+<rect width="1600" height="900" rx="34" fill="#F7F9FC"/>
+<rect x="80" y="72" width="1440" height="756" rx="28" fill="#FFFFFF"/>
+<text x="1450" y="132" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#20B8B0">فیزیولوژی پایه • مدل مسیر زیستی</text>
+<text x="1450" y="205" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="42" font-weight="700" fill="#10243A">از کولین تا پیام‌رسان عصبی</text>
+<text x="1450" y="253" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#687789">مسیر تولید استیل‌کولین در نورون کولینرژیک</text>
+<g filter="url(#shadow)">
+ <rect x="1080" y="345" width="350" height="220" rx="24" fill="#EEF8F7" stroke="#CBECE9" stroke-width="2"/>
+ <rect x="625" y="345" width="350" height="220" rx="24" fill="#F2F5F9" stroke="#E0E7EF" stroke-width="2"/>
+ <rect x="170" y="345" width="350" height="220" rx="24" fill="#10243A"/>
+</g>
+<circle cx="1365" cy="405" r="24" fill="#20B8B0"/>
+<text x="1365" y="413" text-anchor="middle" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">۱</text>
+<text x="1255" y="455" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="32" font-weight="700" fill="#10243A">کولین</text>
+<text x="1255" y="503" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="21" fill="#526273">+ استیل‌کوآنزیم A</text>
+<circle cx="910" cy="405" r="24" fill="#8A9BAE"/>
+<text x="910" y="413" text-anchor="middle" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">۲</text>
+<text x="800" y="455" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="26" font-weight="700" fill="#10243A">کولین‌استیل‌ترانسفراز</text>
+<text x="800" y="503" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#687789">آنزیم واکنش</text>
+<circle cx="455" cy="405" r="24" fill="#20B8B0"/>
+<text x="455" y="413" text-anchor="middle" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">۳</text>
+<text x="345" y="455" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">استیل‌کولین</text>
+<text x="345" y="503" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#D9E5ED">اتصال به گیرنده و انتقال پیام</text>
+<path d="M1070 455H990" fill="none" stroke="#20B8B0" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M615 455H535" fill="none" stroke="#20B8B0" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="170" y="635" width="1260" height="105" rx="20" fill="#FFF8ED" stroke="#F1D9B8" stroke-width="2"/>
+<text x="1360" y="680" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#9A5D14">مرز تفسیر</text>
+<text x="1360" y="716" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#526273">ضرورت زیستی کولین، به‌تنهایی اثربخشی مکمل برای حافظه یا تمرکز را ثابت نمی‌کند.</text>
+<text x="180" y="790" text-anchor="start" direction="ltr" font-family="Vazirmatn,Tahoma,sans-serif" font-size="16" fill="#687789">Sources: [R1], [R2] • Conceptual diagram; no quantitative data</text>
+</svg>
