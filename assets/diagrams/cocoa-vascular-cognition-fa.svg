@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">مسیر پیشنهادی فلاوانول‌های کاکائو تا پرفیوژن مغزی</title>
+<desc id="desc">نمودار مفهومی از فلاوانول‌ها به پاسخ عروقی وابسته به نیتریک‌اکسید، سپس پرفیوژن مغزی و پرسش شناختی. مسیرهای احتمالی نقطه‌چین هستند.</desc>
+<defs>
+ <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto"><path d="M0 0L14 7L0 14Z" fill="#20B8B0"/></marker>
+ <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#10243A" flood-opacity=".08"/></filter>
+</defs>
+<rect width="1600" height="900" rx="34" fill="#F7F9FC"/>
+<rect x="80" y="72" width="1440" height="756" rx="28" fill="#FFFFFF"/>
+<text x="1450" y="132" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#20B8B0">کاکائو • شماتیک مفهومی، نه نتیجهٔ علّی قطعی</text>
+<text x="1450" y="205" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="42" font-weight="700" fill="#10243A">از فلاوانول تا پرفیوژن؛ شناخت هنوز پرسش است</text>
+<text x="1450" y="253" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#687789">اندازه‌گیری عروقی یا خون‌رسانی، معادل بهبود حافظه نیست.</text>
+<g filter="url(#shadow)">
+ <rect x="1160" y="350" width="260" height="185" rx="22" fill="#F7F1EC" stroke="#EAD9C9" stroke-width="2"/>
+ <rect x="770" y="350" width="300" height="185" rx="22" fill="#EEF8F7" stroke="#CBECE9" stroke-width="2"/>
+ <rect x="380" y="350" width="300" height="185" rx="22" fill="#F2F5F9" stroke="#E0E7EF" stroke-width="2"/>
+ <rect x="180" y="350" width="145" height="185" rx="22" fill="#10243A"/>
+</g>
+<text x="1290" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="28" font-weight="700" fill="#10243A">فلاوانول‌های</text>
+<text x="1290" y="458" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="28" font-weight="700" fill="#10243A">کاکائو</text>
+<text x="920" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="27" font-weight="700" fill="#10243A">اندوتلیوم / NO</text>
+<text x="920" y="465" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="18" fill="#687789">پاسخ عروقی پیشنهادی</text>
+<text x="530" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="27" font-weight="700" fill="#10243A">پرفیوژن مغزی</text>
+<text x="530" y="465" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="18" fill="#687789">در یک مطالعهٔ حاد سنجیده شد</text>
+<text x="253" y="438" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">شناخت؟</text>
+<path d="M1150 443H1090" fill="none" stroke="#20B8B0" stroke-width="5" stroke-dasharray="13 11" marker-end="url(#arrow)"/>
+<path d="M760 443H700" fill="none" stroke="#20B8B0" stroke-width="5" stroke-dasharray="13 11" marker-end="url(#arrow)"/>
+<path d="M370 443H345" fill="none" stroke="#D88A2D" stroke-width="5" stroke-dasharray="7 10" marker-end="url(#arrow)"/>
+<rect x="180" y="610" width="1240" height="115" rx="20" fill="#FFF8ED" stroke="#F1D9B8" stroke-width="2"/>
+<text x="1345" y="657" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#9A5D14">مرزبندی شواهد</text>
+<text x="1345" y="696" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="19" fill="#526273">NO و پاسخ عروقی محیطی در [R19]؛ پرفیوژن حاد در [R8]؛ کارآزمایی‌های شناختی ناهمگون [R9–R11].</text>
+<text x="180" y="790" text-anchor="start" direction="ltr" font-family="Vazirmatn,Tahoma,sans-serif" font-size="16" fill="#687789">All arrows are proposed links • Conceptual diagram; no pooled values shown</text>
+</svg>
