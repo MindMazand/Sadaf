@@ -19,6 +19,7 @@
 | .github/agents/academic-presentation-fa.agent.md | پروفایل ایجنت پژوهش، نگارش و طراحی |
 | .github/copilot-instructions.md | قواعد علمی، نگارشی و تحویل برای کل مخزن |
 | .github/prompts/00-master-and-final-prompt-pack-fa.md | پرامپت مادر، متن کامل مراحل ۰۱ تا ۰۵، لینک فایل‌های مرجع و پرامپت Adobe |
+| .github/prompts/06-adobe-visual-assets.prompt.md | پرامپت مستقل تولید دارایی تصویری مفهومی با Adobe Firefly |
 | .github/prompts/ | پرامپت‌های مرحله‌ای پژوهش، روایت، نگارش، ساخت و چهار بازبینی |
 | brief/موضوع-ترکیبات-و-مشخصات-دانشگاهی.md | درخواست کامل، مشخصات دانشگاهی و ترتیب دقیق ۲۰ اسلاید |
 | research/evidence-map-fa.md | ماتریس ادعا/منبع/نتیجه/محدودیت و کتاب‌نامهٔ کامل |
