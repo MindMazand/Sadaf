@@ -78,7 +78,7 @@
 
 **[R17]** Yoo S, Aoun A, Montazeri A, Collins E, Little J. Choline status and related health outcomes in humans: A scoping review. *Nutrition and Health*. 2026;32(5):1489–1510. DOI: 10.1177/02601060261430655; PMID: 41847819; PMCID: PMC13538934. جست‌وجوی مرور تا مه ۲۰۲۵؛ مرور دامنه‌ای، نه فراتحلیل اثر مکمل بر شناخت. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41847819/)
 
-**[R18]** Haines S, Naylor LH, Glyn M, et al. The role of cocoa flavanols in modulating peripheral and cerebral microvascular function in healthy individuals and populations at-risk of cardiovascular disease: a systematic review. *Journal of Human Nutrition and Dietetics*. 2025. PMID: 40217225. (بررسی‌های منبع این نوبت، جست‌وجوی مرور را تا سپتامبر ۲۰۲۳ گزارش می‌کنند.) [PubMed](https://pubmed.ncbi.nlm.nih.gov/40217225/)
+**[R18]** Richardson S, Marshall J, Rendeiro C. The role of cocoa flavanols in modulating peripheral and cerebral microvascular function in healthy individuals and populations at-risk of cardiovascular disease: a systematic review. *Nutrition Journal*. 2025;24:57. DOI: 10.1186/s12937-025-01121-9; PMID: 40217225; PMCID: PMC11992872. جست‌وجوی مرور تا سپتامبر ۲۰۲۳ بود؛ ۱۹ مطالعه از ۵۱۱ رکورد برای استخراج داده انتخاب شدند؛ مرور به‌دلیل ناهمگونی نتوانست فراتحلیل انجام دهد و پیامدهای میکروواسکولار را سنجید، نه شناخت عمومی. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40217225/) [متن کامل](https://pmc.ncbi.nlm.nih.gov/articles/PMC11992872/)
 
 **[R19]** Fisher ND, Hughes M, Gerhard-Herman M, Hollenberg NK. Flavanol-rich cocoa induces nitric-oxide-dependent vasodilation in healthy humans. *Journal of Hypertension*. 2003;21(12):2281–2286. DOI: 10.1097/00004872-200312000-00016; PMID: 14654748. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14654748/)
 
