@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">فرضیهٔ متابولیکی کرومیوم و مغز</title>
+<desc id="desc">مدل مفهومی با پیکان‌های نقطه‌چین: کرومیوم سه‌ظرفیتی تا مسیر پیشنهادی انسولین و تنظیم گلوکز و انرژی مغز؛ بهبود شناخت اثبات نشده است.</desc>
+<defs>
+ <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto"><path d="M0 0L14 7L0 14Z" fill="#20B8B0"/></marker>
+ <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#10243A" flood-opacity=".08"/></filter>
+</defs>
+<rect width="1600" height="900" rx="34" fill="#F7F9FC"/>
+<rect x="80" y="72" width="1440" height="756" rx="28" fill="#FFFFFF"/>
+<text x="1450" y="132" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#D88A2D">فرضیهٔ پژوهشی • نه مسیر اثبات‌شدهٔ شناختی</text>
+<text x="1450" y="205" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="42" font-weight="700" fill="#10243A">کرومیوم: پیوند متابولیکیِ پیشنهادی</text>
+<text x="1450" y="253" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="20" fill="#687789">نقش انسولین و ضرورت تغذیه‌ای کرومیوم همچنان محل بحث است [R6]</text>
+<g filter="url(#shadow)">
+ <rect x="1120" y="350" width="300" height="190" rx="22" fill="#EEF8F7" stroke="#CBECE9" stroke-width="2"/>
+ <rect x="650" y="350" width="330" height="190" rx="22" fill="#F2F5F9" stroke="#E0E7EF" stroke-width="2"/>
+ <rect x="180" y="350" width="320" height="190" rx="22" fill="#F2F5F9" stroke="#E0E7EF" stroke-width="2"/>
+</g>
+<text x="1270" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="28" font-weight="700" fill="#10243A">کرومیوم سه‌ظرفیتی</text>
+<text x="1270" y="465" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="19" fill="#687789">نقش متابولیکی پیشنهادی</text>
+<text x="815" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="28" font-weight="700" fill="#10243A">انسولین / گلوکز</text>
+<text x="815" y="465" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="19" fill="#687789">سازوکار دقیق تثبیت نشده</text>
+<text x="340" y="417" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="28" font-weight="700" fill="#10243A">انرژی مغز</text>
+<text x="340" y="465" text-anchor="middle" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="19" fill="#687789">نیاز فیزیولوژیک پایه</text>
+<path d="M1110 445H1000" fill="none" stroke="#20B8B0" stroke-width="5" stroke-dasharray="14 12" marker-end="url(#arrow)"/>
+<path d="M640 445H520" fill="none" stroke="#20B8B0" stroke-width="5" stroke-dasharray="14 12" marker-end="url(#arrow)"/>
+<rect x="180" y="610" width="1240" height="120" rx="22" fill="#10243A"/>
+<text x="1345" y="660" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">پیام شناختی؟</text>
+<text x="1345" y="701" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="21" fill="#D9E5ED">برای بهبود حافظه یا توجه، شواهد انسانی مستقیم و تکرارشده کافی نیست [R7].</text>
+<text x="180" y="790" text-anchor="start" direction="ltr" font-family="Vazirmatn,Tahoma,sans-serif" font-size="16" fill="#687789">Dotted arrows = proposed links • Conceptual diagram; no quantitative data</text>
+</svg>
