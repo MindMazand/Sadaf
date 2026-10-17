@@ -60,7 +60,7 @@
 
 **[R9]** Sesso HD, Manson JE, Aragaki AK, et al. Effects of cocoa extract and a multivitamin on cognitive function: a randomized clinical trial. *Alzheimer’s & Dementia*. 2022. PMID: 36102337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36102337/)
 
-**[R10]** Baker LD, Manson JE, Rapp SR, et al. Effect of cocoa extract supplementation on cognitive function: results from the clinic subcohort of the COSMOS trial. *The American Journal of Clinical Nutrition*. 2024. PMID: 38070683. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38070683/)
+**[R10]** Vyas CM, Manson JE, Sesso HD, et al. Effect of cocoa extract supplementation on cognitive function: results from the clinic subcohort of the COSMOS trial. *The American Journal of Clinical Nutrition*. 2024;119(1):39–48. DOI: 10.1016/j.ajcnut.2023.10.031; PMID: 38070683. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38070683/)
 
 **[R11]** Arabpour Z, Arabpour Z, Jazayeri S. Effect of Chronic Dark Chocolate or Cocoa Intake on Cognitive Function: A GRADE-Assessed Systematic Review and Meta-Analysis of RCTs. *Nutrition Reviews*. 2026; published online August 25. DOI: 10.1093/nutrit/nuaf286; PMID: 42641106. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42641106/)
 
@@ -74,7 +74,6 @@
 
 **[R16]** National Center for Complementary and Integrative Health (NCCIH). *Coenzyme Q10*. صفحهٔ رسمی ایمنی و اطلاعات سلامت؛ بازبینی محتوای این پروژه در ۲۰۲۶-۱۰-۱۷. [صفحهٔ NCCIH](https://www.nccih.nih.gov/health/coenzyme-q10)
 
-**[R17]** NIH Office of Dietary Supplements. *Chromium: Fact Sheet for Health Professionals*. برای ضرورت تغذیه‌ای و تداخل دارویی؛ همان منبع [R6].
 
 **[R18]** Haines S, et al. The role of cocoa flavanols in modulating peripheral and cerebral microvascular function in healthy individuals and populations at-risk of cardiovascular disease: a systematic review. *Journal of Human Nutrition and Dietetics*. 2025. PMID: 40217225. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40217225/)
 
