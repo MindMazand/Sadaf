@@ -14,7 +14,7 @@
 | ۰۴ طراحی و ساخت PPTX | [04-visual-design-and-build.prompt.md](04-visual-design-and-build.prompt.md) |
 | ۰۵ چهار گذر بازبینی | [05-four-pass-review.prompt.md](05-four-pass-review.prompt.md) |
 | پروفایل ایجنت GitHub | [academic-presentation-fa.agent.md](../agents/academic-presentation-fa.agent.md) |
-| دستور Adobe Firefly | بخش «پرامپت Adobe» در همین فایل |
+| دستور Adobe Firefly | [06-adobe-visual-assets.prompt.md](06-adobe-visual-assets.prompt.md) و بخش «پرامپت Adobe» در همین فایل |
 
 ## فایل‌های مرجع پروژه
 
